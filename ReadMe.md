@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 ![Banner](./banner.png)
 
 
