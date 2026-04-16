@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Im Matic, a teenage Developer and filmmaker.
+
+![Banner](./banner.png)
 
 
 ## 🌐 Socials:
